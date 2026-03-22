@@ -1,11 +1,41 @@
 ### Hi there 👋
 
-My name is Frantisek - passionate Kotlin/Java developer.
+I'm František - Kotlin / Spring engineer focused on building scalable backend systems and real-world products.
 
-- Currently part of [Green:Code](https://greencode.cz) - Skoda Auto a.s. side company.
+I enjoy designing clean APIs, working on architecture and turning ideas into working software.
 
-- I am a part of ScreamingSandals, OpenSource Minecraft libraries and Minigames developers 🤞
-- I was working for about 2 years on my project [hoz.network](https://hoz.network/). Great source of new technologies 🤯
+---
+
+### What I'm working on
+
+• Backend engineer at [Green:Code](https://greencode.cz) (Škoda Auto group)  
+  Event-driven systems, high-throughput processing, distributed architecture
+
+• Building **CephDetail** - fullstack SaaS platform for booking, CRM and analytics  
+  Kotlin, Spring Boot, WebFlux, GraphQL, MongoDB, Next.js, Docker
+
+• Interested in:
+  - scalable backend architecture
+  - GraphQL APIs
+  - observability & reliability
+  - SaaS products
+  - clean code & maintainable systems
+
+---
+
+### Background
+
+Previously contributed to open-source Minecraft ecosystem (libraries & minigames)  
+Built and operated project [hoz.network](https://hoz.network/) – great playground for experimenting with new technologies.
+
+---
+
+### Tech I enjoy working with
+
+Kotlin • Java • Spring Boot • WebFlux • GraphQL  
+MongoDB • PostgreSQL • Docker • REST APIs • CI/CD  
+
+---
 
 <a href="https://github.com/iamceph">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamceph&show_icons=true&locale=en&layout=compact&theme=dark" />
@@ -13,4 +43,4 @@ My name is Frantisek - passionate Kotlin/Java developer.
 <br>
 <a href="https://github.com/iamceph">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamceph&show_icons=true&theme=dark" />
-</a> 
+</a>
